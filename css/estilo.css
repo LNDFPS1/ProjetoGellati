@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.menu {
+    background-color: #F6D10A;
+}
+
+button {
+    padding: 10px;
+}
+
+.conteudo {
+    background-image: url('/imagens/sorvete.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 250px;
+}
+.conteudo-conteudo {
+    color: aliceblue;
+    text-align: center;
+}
+
+#produtosbutton {
+    background-color: black;
+    color: #F6D10A;
+
+}
+#pedidosbutton {
+    background-color: palevioletred;
+    color: white;
+}
+#nprodutosbutton {
+    background-color: white;
+    color: black;
+}
